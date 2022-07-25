@@ -75,7 +75,7 @@ def make_classic_move(theBoard, turn, count, circuit):
 
         print(circuit.draw())
       else: 
-        print()
+        
         print("That place is already filled.")
     else:
       print("Please select a square from 1-9")
